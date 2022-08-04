@@ -1,5 +1,5 @@
 <h2>Hi, My name's Caio</h2>
-<h3>I'm a Computer Engineer student, and mainly mobile developer.</h3>
+<h3>I'm a Computer Engineer student.</h3>
 
 <div className="languages_that_i_like">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
