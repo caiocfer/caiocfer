@@ -1,15 +1,21 @@
-<h2>Hi, My name's Caio</h2>
-<h3>I'm a Computer Engineer.</h3>
-
+<h2>👋 Hi, I'm Caio Ferreira</h2>
+<h3>💻 Software Developer | 🧠 Focused on Backend, Cloud & Productivity</h3>
 <div className="languages_that_i_like">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  
+<p>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,golang,kotlin,java" alt="Linguagens" /></a>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux" alt="DevOps e Ferramentas" /></a>
+<br/>
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="IDEs" /></a>
+<p>
 </div>
 <div>
 <h3>Github stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocfer&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api?username=caiocfer&theme=dracula">
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=caiocfer&theme=material-palenight&show_icons=true&hide_border=false&count_private=true">
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiocfer&theme=material-palenight&hide_border=false">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocfer&theme=material-palenight&show_icons=true&hide_border=false&layout=compact">
+</p>
 </div>
