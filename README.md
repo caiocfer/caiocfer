@@ -4,7 +4,7 @@
 <p>
 <a href="#"><img src="https://skillicons.dev/icons?i=python,golang,kotlin,java" alt="Linguagens" /></a>
 <br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes,docker,git,linux" alt="DevOps e Ferramentas" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=kubernetes,docker,git,github,linux" alt="DevOps e Ferramentas" /></a>
 <br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode,androidstudio" alt="IDEs" /></a>
 <p>
